@@ -45,7 +45,7 @@ Stoplights precede tasks and indicate critical meta information about the task. 
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | !        | The task cannot NOT happen. Declaring a task mandatory must be an explicit declaration, rather than an implicit assumption, which prevents overestimation of criticality.            |
 | ?        | The task is waiting on someone or something else. While work on this task might not yet be stalled, it cannot be completed.                                                          |
-| ~        | The task requires more thought. Allowing for this stoplight encourages early notation and prioritization of tasks.                                                                   |
+| ~        | The task requires more thought, and might not even happen. Allowing for this stoplight encourages early notation and prioritization of tasks.                                                                   |
 | #        | A number sign denotes a unique identifier or ID for this task which can be referenced either elsewhere in the task list (see predecessor limiter below) or outside of the task list. |
 
 ## Description
