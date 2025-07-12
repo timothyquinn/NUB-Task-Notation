@@ -18,7 +18,7 @@ Please take a moment to review How It Works below before clicking through to ind
 
 Versions are incremental, and later versions replace earlier versions. In general, an integer increment is not backwards-compatible, while a decimal increment is.
 
-- [2.0](versions/1-0.md) (latest)
+- [2.0](versions/2-0.md) (latest)
 - [1.0](versions/1-0.md)
 
 ## How It Works
