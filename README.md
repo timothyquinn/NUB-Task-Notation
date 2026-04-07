@@ -18,7 +18,8 @@ Please take a moment to review How It Works below before clicking through to ind
 
 Versions are incremental, and later versions replace earlier versions. In general, an integer increment is not backwards-compatible, while a decimal increment is.
 
-- [2.0](versions/2-0.md) (latest)
+- [3.0](versions/3-0.md) (latest)
+- [2.0](versions/2-0.md)
 - [1.0](versions/1-0.md)
 
 ## How It Works
@@ -47,7 +48,7 @@ Note that in each example a pipe (|) has been added for visual clarity. Segment 
 
 Although in this form the structure appears complex, it will become second nature after you've done it a few times, and it encourages creating tasks as early as possible and then refining them over time.
 
-Like many project managers, I often apply a higher level of structure by grouping tasks into discrete lists. Lists can be assembled based on category, location, business unit, project, or any other form of aggregation desired -- but shouldn't be structured around attributes which exist down at the attribute level (e.g. "things to do this month").
+Like many project managers, I often apply a higher level of structure by grouping tasks into discrete lists. Lists can be assembled based on category, location, business unit, project, or any other form of aggregation desired -- but shouldn't be structured around information which exists down at the attribute level (e.g. "things to do this month" is a poor aggregator because "this month" is better expressed in time-based attributes).
 
 As with any other platform- or industry-agnostic methodology, the benefits of NUB task notation are limited by the uniqueness of the environment. I wouldn't, for instance, want to use it to land 747s. (I have a $20 Amazon gift certificate for the first air traffic controller to demonstrate its applicability in the tower. But I will never, ever fly in or out of your city.)
 
